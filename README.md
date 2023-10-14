@@ -14,5 +14,6 @@ forest and Multinomial Naive Bayes machine learning models.
 The rationale behind this comparative analysis is to determine the extent to which data preprocessing affects the accuracy, efficiency, and overall performance of the Random Forest and Multinomial Naive Bayes models in a 
 text-based task. By examining the models in both preprocessed and unprocessed data scenarios, we can gain valuable insights into the necessity and benefits of data cleaning steps in the context of these particular machine 
 learning algorithms.
+
 Random Forest is an ensemble learning method known for its robustness and capability to handle noisy data, while Multinomial Naive Bayes is a probabilistic classifier commonly used for text classification tasks. By 
 comparing the results of these two models on unprocessed and preprocessed data, we can determine the impact of text cleaning on the models' ability to make accurate predictions.
